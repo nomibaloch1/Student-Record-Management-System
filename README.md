@@ -31,30 +31,6 @@ A beginner-friendly console-based Student Record Management System developed usi
 - Vectors
 - File Handling
 
-## 📁 Project Structure
-
-```text
-Student-Record-Management/
-│
-├── main.cpp
-├── students.txt
-└── README.md
-```
-
-## ▶️ How to Run Locally
-
-Compile:
-
-```bash
-g++ main.cpp -o student
-```
-
-Run on Windows:
-
-```bash
-.\student.exe
-```
-
 ## 🌐 Run Online
 
 You can open an online C++ compiler using the badge above.
@@ -70,8 +46,6 @@ The program automatically loads previously saved student records when it starts.
 ## 🎯 Project Purpose
 
 This project was created to practice basic C++ programming and Object-Oriented Programming concepts through a practical beginner-level application.
-
----
 
 **Language:** C++  
 **Level:** Beginner  
