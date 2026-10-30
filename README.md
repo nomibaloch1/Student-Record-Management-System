@@ -45,7 +45,7 @@ The program automatically loads previously saved student records when it starts.
 
 ## 🎯 Project Purpose
 
-This project was created to practice basic C++ programming and Object-Oriented Programming concepts through a practical beginner-level application.
+This project was created to practice my basic C++ programming and Object-Oriented Programming concepts through a practical beginner-level application.
 
 **Language:** C++  
 **Level:** Beginner  
